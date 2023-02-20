@@ -1,4 +1,4 @@
-# co6324cbea7d20889f12ae9d9
+# Send to pager
 
 Quick start:
 
@@ -19,4 +19,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-Cheers!
